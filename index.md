@@ -18,9 +18,9 @@ Getting your Chatbot Up and Running with Auto-SQL is fast and easy:
 
 3. Configure it with your preferred large language model (LLM).
 
-> With just a few simple steps, your AI-powered Odoo assistant will be ready to serve.
+With just a few simple steps, your AI-powered Odoo assistant will be ready to serve.
 
-
+>For enterprise users.
 ### Features
 
 Explore more of ChatApp by reading about our features:
