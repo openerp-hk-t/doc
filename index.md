@@ -10,7 +10,7 @@ This is the **User Manual** for Auto-SQL Odoo Addon.
 
 ### Getting Started
 
-Getting a message sent is quick and easy with ChatApp:
+Getting a chatbot to work is quick and easy with Auto-SQL:
 
 1. Sign up for an account
 2. Add your friends from their email addresses
