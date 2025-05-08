@@ -10,13 +10,16 @@ This is the **User Manual** for Auto-SQL Odoo Addon.
 
 ### Getting Started
 
-Getting a chatbot to work is quick and easy with Auto-SQL:
+Getting your Chatbot Up and Running with Auto-SQL is fast and easy:
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+1. Download the Auto-SQL add-on;
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+2. Install it on your Odoo server;
+
+3. Configure it with your preferred large language model (LLM).
+
+> With just a few simple steps, your AI-powered Odoo assistant will be ready to serve.
+
 
 ### Features
 
