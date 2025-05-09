@@ -22,7 +22,7 @@ With just a few simple steps, your AI-powered Odoo assistant will be ready to se
 
 ### Features
 
-Explore more of ChatApp by reading about our features:
+Explore more of Auto-SQL by reading about our features:
 
 #### Sales
 
