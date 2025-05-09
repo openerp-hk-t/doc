@@ -38,4 +38,4 @@ Auto-SQL can provide powerful business insights for companies using Odoo by anal
 
 > More information can be found at https://www.auto-sql.com
 
-[![Auto-SQL Sales Assistant](./auto-sql-video.jpg)](https://youtu.be/GrgExT5UOI4?si=owW38KvafeOZb0sI)
+[![Auto-SQL Sales Assistant](./auto-sql-video.png)](https://youtu.be/GrgExT5UOI4?si=owW38KvafeOZb0sI)
