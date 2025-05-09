@@ -6,7 +6,7 @@ This is the **User Manual** for Auto-SQL Odoo Addon.
 
 **Auto-SQL Odoo Addon** is a powerful solution for automating your sales process. By integrating a large language model with your local database, it enables your chatbot to deliver accurate and intelligent responses to customer inquiries. Whether it's sales questions, shipment tracking, product specifications, or accounting information, the system provides fast, context-aware answers—streamlining communication and enhancing customer satisfaction.
 
-> ChatApp seamlessly integrates with WhatsApp, Telegram, and other popular messaging platforms.
+> Auto-SQL seamlessly integrates with WhatsApp, Telegram, and other popular messaging platforms.
 
 ### Getting Started
 
