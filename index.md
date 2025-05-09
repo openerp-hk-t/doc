@@ -37,3 +37,5 @@ Auto-SQL chatbots can handle common support queries across modules like CRM, Inv
 Auto-SQL can provide powerful business insights for companies using Odoo by analyzing the vast amount of structured and unstructured data generated across its integrated modules. From sales trends and inventory turnover to customer behavior and financial performance, Auto-SQL can uncover hidden patterns and correlations that inform smarter decision-making. By leveraging machine learning algorithms, companies can forecast demand, identify operational bottlenecks, and even detect anomalies in real time—helping prevent losses and optimize resource allocation. Auto-SQL also enables personalized dashboards and automated reports within Odoo, giving business owners and managers actionable insights tailored to their goals, all without manual data crunching.
 
 > More information can be found at https://www.auto-sql.com
+
+[![](https://youtu.be/GrgExT5UOI4?si=owW38KvafeOZb0sI)](https://youtu.be/GrgExT5UOI4?si=owW38KvafeOZb0sI)
