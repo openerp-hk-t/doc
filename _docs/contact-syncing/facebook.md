@@ -13,24 +13,28 @@ Auto-SQL Sales Assistant is a next-generation sales enablement tool that seamles
 
 🔍 Key Features
 
-### Natural Language Querying
+**Natural Language Querying**
 
 Sales staff can ask questions like "Do we have item X in stock?" or "What are this month’s best-selling products?"—and receive instant, accurate responses.
 
-### Real-Time Inventory Insight
+**Real-Time Inventory Insight**
 
 Always stay updated. View current stock levels, availability by warehouse, and expected replenishments—all in real time.
 
-### Intelligent Customer Insights
+**Intelligent Customer Insights**
+
 Instantly access customer order history, payment status, and support interactions to personalize and improve every sales conversation.
 
-### Market Trend Forecasting
+**Market Trend Forecasting**
+
 Using advanced AI models, Auto-SQL predicts product demand trends, helping your team stay one step ahead in dynamic markets.
 
-### Seamless Odoo Integration
+**Seamless Odoo Integration**
+
 Fully compatible with your on-premise or cloud-based Odoo system. No complex setup—just install the Auto-SQL add-on and connect your preferred LLM.
 
-### Cross-Platform Chat Compatibility
+**Cross-Platform Chat Compatibility**
+
 The assistant can be integrated with WhatsApp, Telegram, LINE, and other popular messaging platforms, making it easy to reach users on their terms.
 
 🧠 Why Auto-SQL?
