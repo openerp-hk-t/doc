@@ -11,7 +11,7 @@ Auto-SQL can significantly boost business analysis in Odoo by leveraging real-ti
 AI can optimize Odoo’s Inventory module by forecasting demand, minimizing stockouts and overstock situations, and automating replenishment decisions based on real-time consumption patterns and historical trends."
 
 
-![Auto-SQL Overview](.../images/inventory_backlog.png)
+![Auto-SQL Overview](./inventory_backlog.png)
 
 Share documents with your friends! Send work or school projects from your computer or phone.
 
