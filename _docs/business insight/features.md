@@ -16,8 +16,9 @@ Consequently, decision-makers understand company performance in an intuitive way
 More importantly, by forecasting demand, minimizing stockouts and overstock situations, and automating replenishment decisions based on real-time consumption patterns and historical trends, your company can achieve operational excellence with AI-powered support.
 
 
-🔑 Getting Insights with Auto-SQL
-Auto-SQL makes it easy to access key company data through simple conversations. Follow the steps below to get started:
+🔑 **Getting Insights with Auto-SQL**
+Auto-SQL makes it easy to access key company data through simple conversations.
+Follow the steps below to get started:
 
 Step 1: Start a Chat
 Open the chatbot integrated into your Odoo system, WhatsApp, Telegram, or other supported platforms.
