@@ -1,7 +1,7 @@
 ---
-title: Documents
-category: Media
-order: 3
+title: Features
+category: Business Insight
+order: 1
 ---
 
 Share documents with your friends! Send work or school projects from your computer or phone.
