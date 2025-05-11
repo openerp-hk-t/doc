@@ -8,6 +8,8 @@ This is the **User Manual** for Auto-SQL Odoo Addon.
 
 > Auto-SQL seamlessly integrates with WhatsApp, Telegram, and other popular messaging platforms.
 
+[![Auto-SQL Overview](./images/auto_sql_aboutus.png)]
+
 ### Getting Started
 
 Getting your Chatbot Up and Running with Auto-SQL is fast and easy:
