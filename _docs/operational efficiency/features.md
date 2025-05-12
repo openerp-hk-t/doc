@@ -4,9 +4,7 @@ category: Operational Efficiency
 order: 2
 ---
 
-**Invoice processing**
-
-Auto-SQL can read, extract, and process data from invoices automatically.
+**Automate Your Revenue Growth with AI-Driven Sales Intelligence.**
 
 
 ⚡Sales & CRM: Auto-SQL can score leads, predict customer churn, and recommend next-best actions based on past interactions.
