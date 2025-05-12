@@ -47,4 +47,6 @@ Boost customer satisfaction by offering immediate, accurate information across p
 
 Accelerate training—new staff can get up to speed quickly using conversational access to system data.
 
+![Messeging Platform Overview](https://openerp-hk-t.github.io/doc/images/chat_bot_integration.png)
+
 
