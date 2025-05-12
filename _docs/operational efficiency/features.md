@@ -18,6 +18,7 @@ order: 2
 ⚡⚡⚡Inventory updates:  Auto-SQL bots can track stock levels and automatically adjust ERP records.
 
 
+![Auto-SQL Chart](https://openerp-hk-t.github.io/doc/images/ai_chart_view_01.jpg)
 
 ⭐Sales & CRM:  Auto-SQL can score leads, predict customer churn, and recommend next-best actions based on past interactions.
 
