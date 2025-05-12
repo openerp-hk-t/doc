@@ -4,7 +4,7 @@ category: Business Insight
 order: 1
 ---
 
-Share images with your friends! Send photos and pictures from your computer, phone or camera.
+Ask your Auto-SQL chatbot with business insights.
 
 > Images are stored until you choose to remove them.
 
