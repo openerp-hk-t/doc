@@ -1,17 +1,19 @@
 ---
 title: Features
 category: Business Insight
-order: 4
+order: 2
 ---
 
-Share documents with your friends! Send work or school projects from your computer or phone.
+### 界面区域
 
-To share a document:
+| 区域 | 主要功能 |
+|---|---|
+| 顶部工具栏 | 查看表数量、关系数量、撤销操作、切换语言、导出 JSON 或 Mermaid |
+| 左侧导入区 | 上传 Excel 或 CSV 文件 |
+| 左侧对话区 | 使用自然语言新增、修改或删除模型内容 |
+| 中央画布 | 展示数据表、字段、主外键和表间关系 |
+| 画布控制区 | 缩放、复位、锁定或调整视图 |
+| 历史版本区 | 查看并切换不同版本的模型 |
+| 小地图 | 快速定位大型模型中的不同区域 |
 
-1. Open a message with someone
-2. Select the **Send Media** button
-3. Pick a document
-
-> Changes made to documents after sending are not saved back, you'll have to get contacts to send you updated versions.
-
-![](//placehold.it/800x600)
+---
