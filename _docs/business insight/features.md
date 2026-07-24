@@ -1,5 +1,5 @@
 ---
-title: 特性
+title: 核心功能
 category: 总体介绍
 order: 1
 ---
