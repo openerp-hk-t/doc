@@ -1,5 +1,5 @@
 ---
-title: 特性
+title: 界面区域
 category: 总体介绍
 order: 2
 ---
