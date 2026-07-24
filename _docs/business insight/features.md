@@ -1,6 +1,6 @@
 ---
 title: Features
-category: Business Insight
+category: 总体介绍
 order: 1
 ---
 
