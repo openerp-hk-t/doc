@@ -1,5 +1,5 @@
 ---
-title: Features
+title: 特性
 category: 总体介绍
 order: 1
 ---
