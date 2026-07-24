@@ -4,36 +4,65 @@ category: Business Insight
 order: 1
 ---
 
-Auto-SQL can significantly boost business analysis in Odoo by leveraging real-time data across modules to detect anomalies, predict sales trends, optimize inventory levels, and generate intelligent insights that streamline decision-making and improve overall operational efficiency.
+UML Copilot 主要由左侧对话区、中央模型画布和顶部工具栏组成。
 
-As illustrated below, when a user asks the chatbot "Which product has the largest inventory backlog?", Auto-SQL automatically queries the database and returns the result in a human-friendly, conversational format.
+### 核心能力
 
+#### Excel / CSV 自动建模
 
-![Auto-SQL Overview](https://openerp-hk-t.github.io/doc/images/inventory_backlog.png)
+导入 Excel 或 CSV 后，系统可以根据文件内容自动完成：
 
-Consequently, decision-makers understand company performance in an intuitive way. 
+- 工作表识别
+- 数据表生成
+- 字段名称识别
+- 字段类型推断
+- 主键识别
+- 外键候选识别
+- 表间关系推断
+- UML 模型自动布局
 
-More importantly, by forecasting demand, minimizing stockouts and overstock situations, and automating replenishment decisions based on real-time consumption patterns and historical trends, your company can achieve operational excellence with AI-powered support.
+#### 自然语言修改
 
+用户可以在左侧对话框中直接描述修改要求，系统将对应操作转换为结构化模型变更。
 
-🔑 **Getting Insights with Auto-SQL**
-Auto-SQL makes it easy to access key company data through simple conversations.
-Follow the steps below to get started:
+支持的典型操作包括：
 
-Step 1: Start a Chat
-Open the chatbot integrated into your Odoo system, WhatsApp, Telegram, or other supported platforms.
+- 新增、删除或重命名数据表
+- 新增、删除或重命名字段
+- 修改字段类型
+- 设置主键
+- 设置外键
+- 建立或删除字段关联
+- 修改关系类型
+- 调整模型布局
 
-Step 2: Ask a Question
-Use plain language. You can try templates like:
+#### 可视化 UML 画布
 
-“How is my inventory turnover?”
+画布以数据表卡片的形式展示模型。
 
-“Which product has the highest sales?”
+每张表通常包含：
 
-“What’s the status of order SO123?”
+- 表名
+- 主键字段
+- 外键字段
+- 普通字段
+- 字段类型
+- 表间连接线
+- 关系基数
 
-Step 3: Review the Answer
-The chatbot will automatically query your database and respond with a clear, human-readable summary based on real-time data.
+支持常见关系：
 
-Tip:
-You can ask about sales, shipments, stock levels, financials, and more. The system understands natural language and provides smart, actionable insights instantly.
+- 一对一
+- 一对多
+- 多对一
+- 多对多
+- 自关联
+
+#### 模型导出
+
+完成建模后，可将模型导出为：
+
+- JSON
+- Mermaid
+- 数据模型说明
+- 后续可扩展的 SQL、ORM 或 Odoo 模型代码
