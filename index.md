@@ -1,6 +1,7 @@
 UML Copilot
 
 > 面向业务分析、系统设计与 Odoo/ERP 实施场景的 AI 数据模型设计工具。
+> 
 > An Excel-to-UML data modeling workspace designed for business users, product managers, implementation consultants, and developers.  
 > Import Excel/CSV files, modify models through natural-language instructions, and visually manage tables, fields, and relationships.
 
