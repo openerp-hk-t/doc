@@ -44,7 +44,7 @@ AI 对话式修改
 为 Users 和 Roles 建立多对多关系。
 
 
-## 1. Introduction
+# 1. Introduction
 
 UML Copilot is a visual modeling tool for database schema design and business data modeling.
 
@@ -177,8 +177,10 @@ Excel 文件建议格式
 
 推荐每个工作表对应一张数据表，第一行为字段名。
 
-示例：`Users` 工作表
+示例：Users 工作表
+
 user_id	username	email	phone	level	created_at
+
 1	Alice	alice@example.com	13800000000	admin	2026-07-01
 
 
@@ -188,9 +190,9 @@ user_id	username	email	phone	level	created_at
 
 第一行使用清晰、唯一的字段名
 
-主键字段建议使用 `id` 或 `<table>_id`
+主键字段建议使用 id 或 <table>_id
 
-外键字段建议使用 `<related_table>_id`
+外键字段建议使用 <related_table>_id
 
 避免空列、合并单元格和重复字段名日期、数字和布尔值尽量保持格式统一
 典型应用示例，以电商业务为例，系统可以识别并展示以下数据对象：
