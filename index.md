@@ -75,18 +75,6 @@ UML Copilot is suitable for the following scenarios:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 **AI Copilot 会解析用户意图，并将修改同步到右侧模型画布中**
 
 
