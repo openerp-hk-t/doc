@@ -44,7 +44,7 @@ AI 对话式修改
 为 Users 和 Roles 建立多对多关系。
 
 
-1. Introduction
+Introduction
 
 UML Copilot is a visual modeling tool for database schema design and business data modeling.
 
