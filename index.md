@@ -31,7 +31,7 @@ UML Copilot is suitable for the following scenarios:
 - Data relationship visualization
 - Data model documentation generation
 
-![UML Copilot 界面预览](images/uml-copilot-overview.png)
+![UML Copilot Screen](images/uml_editor_english.png)
 
 
 
