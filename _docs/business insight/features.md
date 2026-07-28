@@ -1,79 +1,15 @@
 ---
-title: 核心功能
-category: 总体介绍
+title: Overview
+category: Features
 order: 1
 ---
 
-UML Copilot 主要由左侧对话区、中央模型画布和顶部工具栏组成。
 
-### 核心能力
-
-#### Excel / CSV 自动建模
-
-导入 Excel 或 CSV 后，系统可以根据文件内容自动完成：
-
-- 工作表识别
-- 数据表生成
-- 字段名称识别
-- 字段类型推断
-- 主键识别
-- 外键候选识别
-- 表间关系推断
-- UML 模型自动布局
-
-#### 自然语言修改
-
-用户可以在左侧对话框中直接描述修改要求，系统将对应操作转换为结构化模型变更。
-
-支持的典型操作包括：
-
-- 新增、删除或重命名数据表
-- 新增、删除或重命名字段
-- 修改字段类型
-- 设置主键
-- 设置外键
-- 建立或删除字段关联
-- 修改关系类型
-- 调整模型布局
-
-#### 可视化 UML 画布
-
-画布以数据表卡片的形式展示模型。
-
-每张表通常包含：
-
-- 表名
-- 主键字段
-- 外键字段
-- 普通字段
-- 字段类型
-- 表间连接线
-- 关系基数
-
-支持常见关系：
-
-- 一对一
-- 一对多
-- 多对一
-- 多对多
-- 自关联
-
-#### 模型导出
-
-完成建模后，可将模型导出为：
-
-- JSON
-- Mermaid
-- 数据模型说明
-- 后续可扩展的 SQL、ORM 或 Odoo 模型代码
-
-
-
-## 2. Overview
+## Overview
 
 UML Copilot consists of a conversation panel on the left, a model canvas in the center, and a toolbar at the top.
 
-### 2.1 Core Capabilities
+### Core Capabilities
 
 #### Excel / CSV Automatic Modeling
 
@@ -134,7 +70,7 @@ Completed models can be exported as:
 - Data model documentation
 - Extensible SQL, ORM, or Odoo model code
 
-### 2.2 Interface Areas
+### Interface Areas
 
 | Area | Main Functions |
 |---|---|
