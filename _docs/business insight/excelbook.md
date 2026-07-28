@@ -8,7 +8,7 @@ order: 3
 
 To improve recognition accuracy, prepare the Excel file according to a consistent structure before importing it.
 
-### S.1 Recommended Structure
+### Recommended Structure
 
 The recommended convention is:
 
@@ -30,7 +30,7 @@ ecommerce_model.xlsx
 
 The worksheet name is used as the default table name.
 
-### S.2 Column Headers
+### Column Headers
 
 The first row of each worksheet should contain field names. Sample data should begin from the second row.
 
@@ -48,7 +48,7 @@ The first row of each worksheet should contain field names. Sample data should b
 | 10001 | 1 | 101 | 2026-07-10 10:30:00 | 299.00 | paid |
 | 10002 | 2 | 102 | 2026-07-11 14:20:00 | 499.00 | shipped |
 
-### S.3 Table Naming Conventions
+### Table Naming Conventions
 
 Use one consistent naming style, such as:
 
@@ -84,7 +84,7 @@ User Table
 order-items!
 ```
 
-### S.4 Field Naming Conventions
+### Field Naming Conventions
 
 The lowercase snake_case convention is recommended:
 
@@ -114,7 +114,7 @@ created_at
 updated_at
 ```
 
-### S.5 Field Type Inference
+### Field Type Inference
 
 The system infers field types from the content in Excel.
 
@@ -147,7 +147,7 @@ Recommended:
 | 0.00 |
 | 350.00 |
 
-### S.6 Primary-Key Design
+### Primary-Key Design
 
 Each table should have a unique primary key.
 
@@ -169,7 +169,7 @@ A primary key should be:
 
 Names, phone numbers, and product names should not normally be used directly as primary keys.
 
-### S.7 Null Values and Sample Data
+### Null Values and Sample Data
 
 The system may use sample data to infer field types and relationships. Each worksheet should therefore contain approximately 2–10 valid sample rows.
 
@@ -183,7 +183,7 @@ Important guidelines:
 - Avoid completely empty columns
 - Use a consistent date format
 
-### S.8 Multi-Worksheet Excel Example
+### Multi-Worksheet Excel Example
 
 ```text
 Users
