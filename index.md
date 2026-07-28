@@ -10,12 +10,13 @@ UML Copilot is a visual modeling tool for database schema design and business da
 
 Users can import existing Excel or CSV files. The system automatically identifies worksheets, field names, field types, primary keys, foreign keys, and potential relationships, and then generates an interactive data model diagram on the canvas.
 
+![UML Copilot Screen](images/uml_editor_english.png)
+
 In addition to conventional drag-and-drop editing, UML Copilot supports model modification through natural-language instructions. For example:
 
 Rename the Customers table to Accounts.
 
 Link Orders.customer_id to Accounts.id and define it as a many-to-one relationship.
-
 
 Add a description field of type text to the Products table.
 
@@ -31,7 +32,7 @@ UML Copilot is suitable for the following scenarios:
 - Data relationship visualization
 - Data model documentation generation
 
-![UML Copilot Screen](images/uml_editor_english.png)
+
 
 ![UML Copilot Screen](images/UML_Editor_En.png)
 
