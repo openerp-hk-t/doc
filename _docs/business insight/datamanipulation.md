@@ -9,7 +9,7 @@ order: 4
 
 Field relationships describe data dependencies between tables.
 
-### 5.1 Primary Keys and Foreign Keys
+### Primary Keys and Foreign Keys
 
 A primary key uniquely identifies a record.
 
@@ -144,7 +144,7 @@ Natural-language instruction:
 Link Categories.parent_id to Categories.category_id to create a hierarchical category structure.
 ```
 
-### 5.7 Relationship Detection Rules
+### Relationship Detection Rules
 
 The system can infer relationships from the following characteristics:
 
