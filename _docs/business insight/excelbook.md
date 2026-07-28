@@ -1,7 +1,7 @@
 ---
 title: Excel Workbook
 category: Features
-order: 1
+order: 3
 ---
 
 ## Building the Excel Workbook
