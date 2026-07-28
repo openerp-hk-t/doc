@@ -1,92 +1,11 @@
 ---
-title: Overview
+title: UserGuide
 category: Features
 order: 1
 ---
 
 
-## Overview
-
-UML Copilot consists of a conversation panel on the left, a model canvas in the center, and a toolbar at the top.
-
-### Core Capabilities
-
-#### Excel / CSV Automatic Modeling
-
-After importing an Excel or CSV file, the system can automatically perform the following tasks:
-
-- Identify worksheets
-- Generate data tables
-- Identify field names
-- Infer field types
-- Detect primary keys
-- Detect foreign-key candidates
-- Infer relationships between tables
-- Automatically arrange the UML model
-
-#### Natural-Language Editing
-
-Users can describe changes directly in the conversation panel. The system converts those instructions into structured model updates.
-
-Typical supported operations include:
-
-- Add, delete, or rename tables
-- Add, delete, or rename fields
-- Change field types
-- Define primary keys
-- Define foreign keys
-- Create or remove field relationships
-- Change relationship types
-- Adjust the model layout
-
-#### Visual UML Canvas
-
-The canvas displays each data table as an individual card.
-
-A table card typically contains:
-
-- Table name
-- Primary-key fields
-- Foreign-key fields
-- Regular fields
-- Field types
-- Relationship lines
-- Relationship cardinalities
-
-Supported relationship types include:
-
-- One-to-one
-- One-to-many
-- Many-to-one
-- Many-to-many
-- Self-referencing relationships
-
-#### Model Export
-
-Completed models can be exported as:
-
-- JSON
-- Mermaid
-- Data model documentation
-- Extensible SQL, ORM, or Odoo model code
-
-### Interface Areas
-
-| Area | Main Functions |
-|---|---|
-| Top toolbar | View table and relationship counts, undo changes, switch languages, and export JSON or Mermaid |
-| Left import area | Upload Excel or CSV files |
-| Left conversation panel | Add, modify, or delete model content using natural language |
-| Central canvas | Display tables, fields, primary keys, foreign keys, and relationships |
-| Canvas controls | Zoom, reset, lock, or adjust the view |
-| Version history | View and switch between different model versions |
-| Minimap | Quickly navigate between areas in a large model |
-
----
-
-## 3. User Guide
-
-### 3.1 Import a Data File
+### 1 Import a Data File
 
 Click **Import Excel / CSV** in the upper-left corner and select a local file.
 
@@ -102,7 +21,7 @@ After import, the system performs the following steps:
 6. Infers relationships between tables.
 7. Generates a UML model on the central canvas.
 
-### 3.2 Review the Data Model
+### 2 Review the Data Model
 
 After import, each data table is displayed as an individual card.
 
@@ -118,7 +37,7 @@ Icons and visual states generally indicate the following:
 
 The canvas supports zooming, panning, and automatic view fitting, making it suitable for large data models.
 
-### 3.3 Modify the Model with Natural Language
+### 3 Modify the Model with Natural Language
 
 Enter an instruction in the conversation box on the left and click Send.
 
@@ -170,7 +89,7 @@ Link Orders.user_id to Users.user_id.
 Remove the relationship between Orders.address_id and User_Address.address_id.
 ```
 
-### 3.4 Add a Table Manually
+### 4 Add a Table Manually
 
 Click **Add Table** above the canvas to create an empty table.
 
@@ -180,7 +99,7 @@ You can then use the conversation panel to define its name and fields:
 Rename the new table to Invoices and add invoice_id, order_id, invoice_no, amount, and issue_date fields.
 ```
 
-### 3.5 Adjust the Canvas
+### 5 Adjust the Canvas
 
 Use the controls in the lower-left corner of the canvas to:
 
@@ -192,7 +111,7 @@ Use the controls in the lower-left corner of the canvas to:
 
 For large models, use the minimap in the lower-right corner to quickly locate a target table.
 
-### 3.6 Undo and Version History
+### 6 Undo and Version History
 
 Use the Undo button in the top toolbar to revert the most recent change.
 
@@ -211,7 +130,7 @@ Version history can be used to:
 - Preserve alternative business designs
 - Record requirement review iterations
 
-### 3.7 Export the Model
+### 7 Export the Model
 
 #### Export as JSON
 
