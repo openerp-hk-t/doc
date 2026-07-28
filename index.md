@@ -1,6 +1,7 @@
 **UML Copilot**
 
-> An Excel-to-UML data modeling workspace designed for business users, product managers, implementation consultants, and developers.  
+> An Excel-to-UML data modeling workspace designed for business users, product managers, implementation consultants, and developers.
+> 
 > Import Excel/CSV files, modify models through natural-language instructions, and visually manage tables, fields, and relationships.
 
 **Introduction**
