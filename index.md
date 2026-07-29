@@ -36,4 +36,4 @@ UML Copilot is suitable for the following scenarios:
 
 ![UML Copilot Screen](images/UML_Editor_En.png)
 
-[![Auto-SQL Sales Assistant](./auto-sql-video.png)](https://youtu.be/GrgExT5UOI4?si=owW38KvafeOZb0sI)
+[![Auto-SQL Sales Assistant](./auto-sql-video.png)](https://www.youtube.com/watch?v=__U2-Tl8AqE)
