@@ -21,6 +21,8 @@ After import, the system performs the following steps:
 6. Infers relationships between tables.
 7. Generates a UML model on the central canvas.
 
+![UML Copilot Screen](images/UML_Import_Data.png)
+
 ### 2 Review the Data Model
 
 After import, each data table is displayed as an individual card.
@@ -36,6 +38,8 @@ Icons and visual states generally indicate the following:
 | One-to-many / many-to-one | Relationship cardinality |
 
 The canvas supports zooming, panning, and automatic view fitting, making it suitable for large data models.
+
+![UML Copilot Screen](images/UML_Tool_02.png)
 
 ### 3 Modify the Model with Natural Language
 
@@ -65,6 +69,9 @@ Add a remark field of type text to the Orders table.
 Rename Products.product_name to name.
 ```
 
+![UML Copilot Screen](images/comments_rename_01.png)
+
+![UML Copilot Screen](images/feedback_modified.png)
 #### Change a Field Type
 
 ```text
