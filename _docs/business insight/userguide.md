@@ -21,7 +21,7 @@ After import, the system performs the following steps:
 6. Infers relationships between tables.
 7. Generates a UML model on the central canvas.
 
-![UML Copilot Screen](../images/UML_Import_Data.png)
+![UML Copilot Screen](.../images/UML_Import_Data.png)
 
 ### 2 Review the Data Model
 
