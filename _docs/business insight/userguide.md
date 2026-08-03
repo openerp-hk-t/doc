@@ -23,6 +23,8 @@ After import, the system performs the following steps:
 
 ![UML Copilot Screen](https://openerp-hk-t.github.io/doc/images/UML_Import_Data.png)
 
+[Download the Excel file](https://openerp-hk-t.github.io/doc/Template_English.xlsx)
+
 ### 2 Review the Data Model
 
 After import, each data table is displayed as an individual card.
