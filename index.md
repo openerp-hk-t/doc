@@ -36,7 +36,7 @@ UML Copilot is suitable for the following scenarios:
 
 ![UML Copilot Screen](images/UML_Editor_En.png)
 
-[![Auto-SQL Sales Assistant](./Add_Table_Mannually.png)](https://www.youtube.com/watch?v=__U2-Tl8AqE)
+[![Auto-SQL Sales Assistant](images/Add_Table_Mannually.png)](https://www.youtube.com/watch?v=__U2-Tl8AqE)
 
 
 [Download the Excel file](https://openerp-hk-t.github.io/doc/Template_English.xlsx)
